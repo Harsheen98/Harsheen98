@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsheen98
 - 👀 I’m a budding Bioinformatician with interest in implementing Machine Learning algorithms and Data Analytics to solve problems in the field of Cancer and Immunonology.
-- 🌱 I’m currently learning all that is there to learn
+- 🌱 I’m currently learning Python, R, Artificial Intelligence and Data Science.
 - 📫 How to reach me - [linkedin](www.linkedin.com/in/harsheen98) [twitter](https://twitter.com/Sheen8798)
 
 <!---
