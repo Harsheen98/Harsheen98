@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsheen98
+- 👋 Hi, I’m Harsheen!
 - 👀 I’m a budding Bioinformatician with interest in implementing Machine Learning algorithms and Data Analytics to solve problems in the field of Cancer and Immunology.
 - 🌱 I’m currently learning Python, R, Artificial Intelligence and Single Cell Transcriptomics.
 - 📫 How to reach me - [Linkedin](www.linkedin.com/in/harsheen98), [Twitter](https://twitter.com/Sheen8798), Email - harsheenmalhi@gmail.com
